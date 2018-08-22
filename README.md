@@ -2,7 +2,6 @@
 
 ##### A series of extra functions that build straight into your Redshift cluster
 ![Alt](https://hevodata.com/blog/wp-content/uploads/2017/10/logo-amazon-redshift-1.png )
-![Alt](http://hansmengroup.com/wp-content/uploads/2010/03/busuu_logo.png "busuu")
 
 **AWS Redshift is one of the biggest and best data warehouse tools in industry today. Not only does it hold and allow you to quiery massive amounts of data extremely quickly there are some helpful methods to help munge your data. However it doesn't make sense not to use the huge computing power of your cluster that you are already paying for not to do more of the data munging.** 
 
